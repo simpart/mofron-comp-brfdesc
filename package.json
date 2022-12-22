@@ -1,0 +1,29 @@
+{
+  "name": "mofron-comp-brfdesc",
+  "version": "0.0.1",
+  "description": "brief description component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-brfdesc.git"
+  },
+  "dependencies": {
+    "mofron-comp-text":"",
+    "mofron-comp-frame":"",
+    "mofron-layout-margin":"",
+    "mofron-layout-hrzcenter":""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-brfdesc/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-brfdesc#readme"
+}
